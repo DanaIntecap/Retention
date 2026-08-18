@@ -1,1 +1,1487 @@
-
+[
+  {
+    "1": "1",
+    "A21-0001": "A21-0002",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The clothes on the shelf were too small for me.",
+    "Student A": "Student B",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0003",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Were the items in your basket discounted?",
+    "Student A": "Student A",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0004",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "I wasn't able to find my wallet inside my purse.",
+    "Student A": "Student B",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0005",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "They weren't interested in buying a product with 20 percent off.",
+    "Student A": "Student A",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0006",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Why was the barcode on the product incorrect?",
+    "Student A": "Student B",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0007",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The cashier wasn't ready to accept my debit card.",
+    "Student A": "Student A",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0008",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Were you looking for a different size?",
+    "Student A": "Student B",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0009",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The new stock was placed near the entrance yesterday.",
+    "Student A": "Student A",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0010",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "We weren't able to bargain for a better price.",
+    "Student A": "Student B",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0011",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Were the cart and the basket clean?",
+    "Student A": "Student A",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A21-0012",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The manager wasn't sure if the profit was high last month.",
+    "Student A": "Student B",
+    "Buying and selling": "Buying and selling"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0001",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The desk is near the window.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0002",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "My desk is clean and organized.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0003",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The filing cabinet has important documents.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0004",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Employees use the filing cabinet every day.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0005",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The waste basket is under the desk.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0006",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The waste basket is full of paper.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0007",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sticky notes help employees remember tasks.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0008",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sticky notes are on the monitor.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0009",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The envelope contains a letter.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0010",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The envelope is on the manager's desk.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0011",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The clipboard holds important papers.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0012",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The clipboard is next to the printer.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0013",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The highlighter marks important information.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0014",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The highlighter is yellow.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0015",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The stapler is on the receptionist's desk.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0016",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The stapler keeps papers together.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0017",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The tape dispenser is beside the computer.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0018",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The tape dispenser is black.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0019",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sarah is an assistant in the office.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0020",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "John is the office manager.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0021",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Maria works in the finance department.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0022",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "David organizes documents in the filing cabinet.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0023",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The receptionist answers phone calls.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0024",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The manager checks reports every morning.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0025",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Employees use envelopes for documents.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0026",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Workers write notes on sticky notes.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0027",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The assistant uses a clipboard during meetings.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0028",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The secretary uses a highlighter for reports.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0029",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The office has three filing cabinets.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0030",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The team works in the office every day.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0031",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The desk is near the window.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0032",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "My desk is clean and organized.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0033",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The filing cabinet has important documents.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0034",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Employees use the filing cabinet every day.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0035",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The waste basket is under the desk.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0036",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The waste basket is full of paper.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0037",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sticky notes help employees remember tasks.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0038",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sticky notes are on the monitor.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0039",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The envelope contains a letter.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0040",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The envelope is on the manager's desk.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0041",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The clipboard holds important papers.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0042",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The clipboard is next to the printer.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0043",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The highlighter marks important information.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0044",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The highlighter is yellow.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0045",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The stapler is on the receptionist's desk.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0046",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The stapler keeps papers together.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0047",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The tape dispenser is beside the computer.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0048",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The tape dispenser is black.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0049",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sarah is an assistant in the office.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0050",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "John is the office manager.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0051",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Maria works in the finance department.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0052",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "David organizes documents in the filing cabinet.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0053",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The receptionist answers phone calls.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0054",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The manager checks reports every morning.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0055",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Employees use envelopes for documents.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0056",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Workers write notes on sticky notes.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0057",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The assistant uses a clipboard during meetings.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0058",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The secretary uses a highlighter for reports.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0059",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The office has three filing cabinets.",
+    "Student A": "Student A",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "2",
+    "A21-0001": "A12-0060",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The team works in the office every day.",
+    "Student A": "Student B",
+    "Buying and selling": "The Office"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0061",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I have a red waste basket.​",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0062",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The company sells expensive products.​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0063",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The blue highlighter is next to the stapler.",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0064",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The clipboard is cheap, but clips aren’t good.​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0065",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "This tape dispenser is expensive but uncomfortable.",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0066",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "This coffee is cold; I don’t like cold coffee. ​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0067",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The keyboard of my computer is old.",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0068",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "My son is tall; I am short.",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0069",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I have two nices classmates.​",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0070",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "The books are new.​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0071",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I study an easy language.​",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0072",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "This cat is very comfortable on the sofa.​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0073",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am not a rude person.​",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0074",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Sometimes, my computer is very slow.​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0075",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "This is a very expensive blouse.​",
+    "Student A": "Student A",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0076",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "Pablo is young but he has a new car.​",
+    "Student A": "Student B",
+    "Buying and selling": "Adjectives"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0077",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is a responsible employee.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0078",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am friendly and creative.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0079",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are athletic and strong.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0080",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is a patient teacher.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0081",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are intelligent and polite.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0082",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "We are a cheerful team.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0083",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is handsome and tall.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0084",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am a creative girl.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0085",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is beautiful and slim.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0086",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are honest and organized.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0087",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are a funny student.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0088",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "We are confident and ambitious.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0089",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is helpful and kind.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0090",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am a shy girl.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0091",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are generous and caring.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0092",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are a calm person.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0093",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is serious and reliable.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0094",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "We are an organized group.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0095",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is a talented artist.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0096",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am tall and thin.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0097",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are young and athletic.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0098",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are a brave person.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0099",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is an active employee.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0100",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is pretty and young.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0101",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "We are friendly and helpful.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0102",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am a hard-working student.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0103",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are punctual and responsible.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0104",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are outgoing and funny.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0105",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is a sociable worker.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0106",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is a beautiful woman.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0107",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am kind and patient.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0108",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "We are a careful team.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0109",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are slim and healthy.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0110",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are creative and intelligent.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0111",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is muscular and athletic.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0112",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is a friendly teacher.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0113",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am a confident student.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0114",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is a creative designer.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0115",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "I am friendly and kind.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0116",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "They are confident and energetic.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0117",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "You are a polite employee.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0118",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "We are a sociable group.",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0119",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "He is a hard-working man.",
+    "Student A": "Student A",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "1",
+    "A21-0001": "A12-0120",
+    "A2": "A1",
+    "A2.1": "A1.2",
+    "The customer was happy with the big clearance sale.": "She is pretty and",
+    "Student A": "Student B",
+    "Buying and selling": "Personal profile"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0013",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "These season's products are on sale until Friday.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0014",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Our new products are very popular.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0015",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The store has good profits this year.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0016",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Large sizes cost the same as every other size.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0017",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The store has this shirt in your size.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0018",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "We have a lot of stock for this item.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0019",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "There is no stock left for that product.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0020",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "All shoes are 20 percent off today.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0021",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "This jacket is 50 percent off.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0022",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Some people like to bargain at local markets.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0023",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The cashiers are busy this afternoon.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0024",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "There are four cashiers in this store.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0025",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Many customers visit the mall on weekends.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0026",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The customers are looking at the new products.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0027",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Her purse is on the shopping cart.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0028",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "My purse is under the table.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0029",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "He keeps his money in his wallet.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0030",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "My wallet is black.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0031",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The scale is next to the vegetables.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0032",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Put the fruit on the scale.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0033",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The bread is on the top shelf.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0034",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The milk is on a different shelf.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0035",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The basket is full of food.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0036",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "She carries a small basket.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0037",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The cart is near the entrance.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0038",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Our cart is very heavy.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0039",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "These clothes are on sale.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0040",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The store sells winter clothes.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0041",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The barcodes help the cashier check prices.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0042",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The scanner reads the barcodes quickly.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0043",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "I usually pay by credit card.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0044",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "She paid with a credit card.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0045",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "The store has a big clearance this month.",
+    "Student A": "Student A",
+    "Buying and selling": "Shopping"
+  },
+  {
+    "1": "",
+    "A21-0001": "A21-0046",
+    "A2": "A2",
+    "A2.1": "A2.1",
+    "The customer was happy with the big clearance sale.": "Many customers visit the clearance section.",
+    "Student A": "Student B",
+    "Buying and selling": "Shopping"
+  }
+]
