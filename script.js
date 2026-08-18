@@ -3,22 +3,34 @@ let filteredData = [];
 let currentSentence = null;
 let recognition = null;
 
+// Elementos del DOM
 const filterNivel = document.getElementById('filterNivel');
 const filterSubnivel = document.getElementById('filterSubnivel');
 const filterUnidad = document.getElementById('filterUnidad');
-const filterRol = document.getElementById('filterRol');
+const filterRol = document.getElementById('filterRol'); // Asegúrate de tener este select en tu index.html
 const sentenceSelect = document.getElementById('sentenceSelect');
 const feedbackBox = document.getElementById('feedbackBox');
 
-// 1. Cargar JSON (Actualizado a sentences.json)
+// Forzar carga de voces (Solución para navegadores que tardan en cargar las voces)
+window.speechSynthesis.onvoiceschanged = function() {
+    window.speechSynthesis.getVoices();
+};
+
+// 1. Cargar JSON
 fetch("sentences.json")
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) throw new Error("No se pudo cargar sentences.json");
+        return response.json();
+    })
     .then(data => {
         allData = data;
         populateFilters();
         applyFilters();
     })
-    .catch(error => console.error("Error cargando data:", error));
+    .catch(error => {
+        console.error("Error cargando data:", error);
+        feedbackBox.innerHTML = "❌ Error cargando las oraciones. Revisa sentences.json";
+    });
 
 // 2. Filtros en Cascada
 function populateFilters() {
@@ -28,7 +40,7 @@ function populateFilters() {
     filterNivel.addEventListener('change', updateSubniveles);
     filterSubnivel.addEventListener('change', updateUnidades);
     filterUnidad.addEventListener('change', applyFilters);
-    filterRol.addEventListener('change', applyFilters); 
+    if(filterRol) filterRol.addEventListener('change', applyFilters); 
     sentenceSelect.addEventListener('change', selectSentence);
 }
 
@@ -49,17 +61,19 @@ function updateUnidades() {
     let unidades = allData;
     if (subnivelVal) unidades = unidades.filter(item => item.Sublevel === subnivelVal);
     
-    [...new Set(unidades.map(item => item.Unit))].filter(Boolean).sort()
+    [...new Set(unidades.map(item => item.Unit))].filter(Boolean).sort((a,b) => Number(a) - Number(b))
         .forEach(u => filterUnidad.innerHTML += `<option value="${u}">Unidad ${u}</option>`);
     applyFilters();
 }
 
 function applyFilters() {
     filteredData = allData.filter(item => {
-        return (!filterNivel.value || item.Level === filterNivel.value) &&
-               (!filterSubnivel.value || item.Sublevel === filterSubnivel.value) &&
-               (!filterUnidad.value || String(item.Unit) === String(filterUnidad.value)) &&
-               (!filterRol.value || item.Rol === filterRol.value);
+        const matchNivel = !filterNivel.value || item.Level === filterNivel.value;
+        const matchSubnivel = !filterSubnivel.value || item.Sublevel === filterSubnivel.value;
+        const matchUnidad = !filterUnidad.value || String(item.Unit) === String(filterUnidad.value);
+        const matchRol = !filterRol || !filterRol.value || item.Rol === filterRol.value;
+        
+        return matchNivel && matchSubnivel && matchUnidad && matchRol;
     });
 
     sentenceSelect.innerHTML = '<option value="">Selecciona un audio...</option>';
@@ -82,14 +96,24 @@ function resetFeedback() {
     feedbackBox.style.color = "#8395a7";
 }
 
-// 3. Audio (TTS)
+// 3. Audio (TTS) - Solucionado
 function playAudio(speed) {
     if (!currentSentence) return alert("Selecciona un audio primero.");
-    speechSynthesis.cancel();
+    if (!currentSentence["Retention Sentence"]) return alert("Error: La columna 'Retention Sentence' está vacía en este registro.");
+
+    window.speechSynthesis.cancel(); // Detiene audios previos
+    
     const msg = new SpeechSynthesisUtterance(currentSentence["Retention Sentence"]);
+    
+    // Asignar voz en inglés
+    const voices = window.speechSynthesis.getVoices();
+    let engVoice = voices.find(v => v.lang.startsWith("en-US")) || voices.find(v => v.lang.startsWith("en"));
+    if(engVoice) msg.voice = engVoice;
+    
     msg.lang = "en-US";
     msg.rate = speed;
-    speechSynthesis.speak(msg);
+    
+    window.speechSynthesis.speak(msg);
 }
 
 document.getElementById('btnPlayNormal').addEventListener('click', () => playAudio(1));
@@ -100,11 +124,14 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
     if (!currentSentence) return alert("Selecciona un audio primero.");
 
     const SpeechAPI = window.SpeechRecognition || window.webkitSpeechRecognition;
-    if (!SpeechAPI) return alert("Navegador no compatible. Usa Chrome o Edge.");
+    if (!SpeechAPI) return alert("Tu navegador no soporta el reconocimiento de voz. Usa Google Chrome o Edge.");
+
+    if (recognition) recognition.stop(); // Detener si ya estaba escuchando
 
     recognition = new SpeechAPI();
     recognition.lang = "en-US";
     recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
 
     feedbackBox.innerHTML = "🎤 Escuchando... habla ahora.";
     feedbackBox.style.borderColor = "#f1c40f";
@@ -115,19 +142,26 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
         compare(spoken, currentSentence["Retention Sentence"]);
     };
 
-    recognition.onerror = () => {
-        feedbackBox.innerHTML = "❌ No te escuché bien. Intenta de nuevo.";
+    recognition.onerror = (event) => {
+        console.error("Error micrófono:", event.error);
+        if(event.error === 'not-allowed') {
+             feedbackBox.innerHTML = "❌ Permiso de micrófono denegado. Dale permiso al navegador.";
+        } else {
+             feedbackBox.innerHTML = "❌ No te escuché bien. Intenta de nuevo.";
+        }
     };
 
     recognition.start();
 });
 
 function compare(spoken, expected) {
-    const cleanSpoken = spoken.toLowerCase().replace(/[.,!?]/g, "").trim();
-    const cleanExpected = expected.toLowerCase().replace(/[.,!?]/g, "").trim();
+    if(!expected) return;
+    
+    const cleanSpoken = spoken.toLowerCase().replace(/[.,!?']/g, "").trim();
+    const cleanExpected = expected.toLowerCase().replace(/[.,!?']/g, "").trim();
 
     if (cleanSpoken === cleanExpected) {
-        feedbackBox.innerHTML = `✅ ¡Excelente!<br><span style="color:#2ecc71;">${expected}</span>`;
+        feedbackBox.innerHTML = `✅ ¡Excelente!<br><span style="color:#2ecc71; font-weight: bold;">${expected}</span>`;
         feedbackBox.style.borderColor = "#2ecc71";
     } else {
         feedbackBox.innerHTML = `⚠️ Casi lo logras.<br>Dijiste: <em>${spoken}</em>`;
