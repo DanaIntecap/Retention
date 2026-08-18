@@ -1,1 +1,168 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #0060AA;
+    padding: 20px;
+    margin: 0;
+    line-height: 1.6;
+}
 
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0,0,0,.15);
+}
+
+.logo-intecap img {
+    max-height: 45px;
+    margin-bottom: 20px;
+}
+
+.banner {
+    text-align: center;
+    background: #0060AA;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.banner h1 {
+    font-family: 'Antonio', sans-serif;
+    font-size: 36px;
+    letter-spacing: 1px;
+    margin: 10px 0 5px 0;
+}
+
+.banner h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+    color: #ffed00;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #00205b;
+}
+
+/* Acordeón de Instrucciones */
+.institutional-section {
+    background: #f8f9fa;
+    border-left: 8px solid #0060AA;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+.institutional-section summary {
+    padding: 15px 20px;
+    cursor: pointer;
+    background: #e9ecef;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #00205b;
+}
+
+.details-content {
+    padding: 20px;
+}
+
+/* Filtros */
+.filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin-bottom: 25px;
+}
+
+select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+/* Interfaz Principal */
+.retention-card {
+    background: #ffffff;
+    padding: 20px;
+}
+
+.audio-selector {
+    display: flex;
+    align-items: center;
+    background: #f8f9fa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 5px 15px;
+    margin-bottom: 20px;
+}
+
+.audio-selector span {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.audio-selector select {
+    border: none;
+    background: transparent;
+    font-weight: 600;
+    color: #333;
+    outline: none;
+}
+
+/* Botones idénticos a las imágenes */
+.button-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    transition: opacity 0.2s;
+    margin-bottom: 10px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.btn-blue { background: #3498db; color: white; }
+.btn-blue-dark { background: #2980b9; color: white; }
+.btn-green { background: #16a085; color: white; }
+.btn-orange { background: #e67e22; color: white; }
+
+/* Caja de Resultados (Borde punteado) */
+.feedback-box {
+    margin-top: 15px;
+    padding: 30px 20px;
+    border: 2px dashed #b2bec3;
+    border-radius: 10px;
+    text-align: center;
+    color: #636e72;
+    background: #fcfcfc;
+    font-weight: 500;
+    min-height: 50px;
+}
+
+.success-text { color: #008D36; font-weight: 700; }
+.error-text { color: #e74c3c; font-weight: 700; }
