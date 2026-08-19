@@ -7,11 +7,11 @@ let recognition = null;
 const filterNivel = document.getElementById('filterNivel');
 const filterSubnivel = document.getElementById('filterSubnivel');
 const filterUnidad = document.getElementById('filterUnidad');
-const filterRol = document.getElementById('filterRol'); // Asegúrate de tener este select en tu index.html
+const filterRol = document.getElementById('filterRol'); 
 const sentenceSelect = document.getElementById('sentenceSelect');
 const feedbackBox = document.getElementById('feedbackBox');
 
-// Forzar carga de voces (Solución para navegadores que tardan en cargar las voces)
+// Forzar carga de voces 
 window.speechSynthesis.onvoiceschanged = function() {
     window.speechSynthesis.getVoices();
 };
@@ -71,7 +71,10 @@ function applyFilters() {
         const matchNivel = !filterNivel.value || item.Level === filterNivel.value;
         const matchSubnivel = !filterSubnivel.value || item.Sublevel === filterSubnivel.value;
         const matchUnidad = !filterUnidad.value || String(item.Unit) === String(filterUnidad.value);
-        const matchRol = !filterRol || !filterRol.value || item.Rol === filterRol.value;
+        
+        // Se actualizó para leer "role" (o "Role" por si Excel lo pone en mayúscula)
+        const itemRole = item.role || item.Role;
+        const matchRol = !filterRol || !filterRol.value || itemRole === filterRol.value;
         
         return matchNivel && matchSubnivel && matchUnidad && matchRol;
     });
@@ -96,16 +99,15 @@ function resetFeedback() {
     feedbackBox.style.color = "#8395a7";
 }
 
-// 3. Audio (TTS) - Solucionado
+// 3. Audio (TTS)
 function playAudio(speed) {
     if (!currentSentence) return alert("Selecciona un audio primero.");
-    if (!currentSentence["Retention Sentence"]) return alert("Error: La columna 'Retention Sentence' está vacía en este registro.");
+    if (!currentSentence["Retention sentence"]) return alert("Error: La columna 'Retention sentence' está vacía en este registro.");
 
-    window.speechSynthesis.cancel(); // Detiene audios previos
+    window.speechSynthesis.cancel(); 
     
-    const msg = new SpeechSynthesisUtterance(currentSentence["Retention Sentence"]);
+    const msg = new SpeechSynthesisUtterance(currentSentence["Retention sentence"]);
     
-    // Asignar voz en inglés
     const voices = window.speechSynthesis.getVoices();
     let engVoice = voices.find(v => v.lang.startsWith("en-US")) || voices.find(v => v.lang.startsWith("en"));
     if(engVoice) msg.voice = engVoice;
@@ -126,7 +128,7 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
     const SpeechAPI = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechAPI) return alert("Tu navegador no soporta el reconocimiento de voz. Usa Google Chrome o Edge.");
 
-    if (recognition) recognition.stop(); // Detener si ya estaba escuchando
+    if (recognition) recognition.stop();
 
     recognition = new SpeechAPI();
     recognition.lang = "en-US";
@@ -139,7 +141,7 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
     
     recognition.onresult = (event) => {
         const spoken = event.results[0][0].transcript;
-        compare(spoken, currentSentence["Retention Sentence"]);
+        compare(spoken, currentSentence["Retention sentence"]);
     };
 
     recognition.onerror = (event) => {
@@ -172,7 +174,7 @@ function compare(spoken, expected) {
 // 5. Mostrar Oración
 document.getElementById('btnGiveUp').addEventListener('click', () => {
     if (!currentSentence) return;
-    feedbackBox.innerHTML = `👀 <strong>${currentSentence["Retention Sentence"]}</strong>`;
+    feedbackBox.innerHTML = `👀 <strong>${currentSentence["Retention sentence"]}</strong>`;
     feedbackBox.style.borderColor = "#3498db";
     feedbackBox.style.color = "#2c3e50";
 });
