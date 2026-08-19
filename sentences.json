@@ -4,8 +4,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The customer was happy with the big clearance sale.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Buying and selling"
   },
   {
@@ -13,8 +13,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The clothes on the shelf were too small for me.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Buying and selling"
   },
   {
@@ -22,8 +22,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Were the items in your basket discounted?",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Buying and selling"
   },
   {
@@ -31,8 +31,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "I wasn't able to find my wallet inside my purse.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Buying and selling"
   },
   {
@@ -40,8 +40,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "They weren't interested in buying a product with 20 percent off.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Buying and selling"
   },
   {
@@ -49,8 +49,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Why was the barcode on the product incorrect?",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Buying and selling"
   },
   {
@@ -58,8 +58,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The cashier wasn't ready to accept my debit card.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Buying and selling"
   },
   {
@@ -67,8 +67,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Were you looking for a different size?",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Buying and selling"
   },
   {
@@ -76,8 +76,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The new stock was placed near the entrance yesterday.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Buying and selling"
   },
   {
@@ -85,8 +85,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "We weren't able to bargain for a better price.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Buying and selling"
   },
   {
@@ -94,8 +94,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Were the cart and the basket clean?",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Buying and selling"
   },
   {
@@ -103,8 +103,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The manager wasn't sure if the profit was high last month.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Buying and selling"
   },
   {
@@ -112,8 +112,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The desk is near the window.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -121,8 +121,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My desk is clean and organized.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -130,8 +130,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The filing cabinet has important documents.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -139,8 +139,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Employees use the filing cabinet every day.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -148,8 +148,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The waste basket is under the desk.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -157,8 +157,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The waste basket is full of paper.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -166,8 +166,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sticky notes help employees remember tasks.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -175,8 +175,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sticky notes are on the monitor.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -184,8 +184,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The envelope contains a letter.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -193,8 +193,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The envelope is on the manager's desk.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -202,8 +202,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The clipboard holds important papers.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -211,8 +211,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The clipboard is next to the printer.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -220,8 +220,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The highlighter marks important information.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -229,8 +229,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The highlighter is yellow.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -238,8 +238,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The stapler is on the receptionist's desk.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -247,8 +247,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The stapler keeps papers together.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -256,8 +256,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The tape dispenser is beside the computer.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -265,8 +265,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The tape dispenser is black.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -274,8 +274,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sarah is an assistant in the office.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -283,8 +283,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "John is the office manager.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -292,8 +292,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Maria works in the finance department.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -301,8 +301,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "David organizes documents in the filing cabinet.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -310,8 +310,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The receptionist answers phone calls.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -319,8 +319,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The manager checks reports every morning.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -328,8 +328,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Employees use envelopes for documents.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -337,8 +337,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Workers write notes on sticky notes.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -346,8 +346,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The assistant uses a clipboard during meetings.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -355,8 +355,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The secretary uses a highlighter for reports.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -364,8 +364,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The office has three filing cabinets.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -373,8 +373,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The team works in the office every day.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -382,8 +382,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The desk is near the window.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -391,8 +391,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My desk is clean and organized.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -400,8 +400,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The filing cabinet has important documents.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -409,8 +409,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Employees use the filing cabinet every day.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -418,8 +418,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The waste basket is under the desk.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -427,8 +427,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The waste basket is full of paper.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -436,8 +436,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sticky notes help employees remember tasks.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -445,8 +445,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sticky notes are on the monitor.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -454,8 +454,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The envelope contains a letter.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -463,8 +463,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The envelope is on the manager's desk.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -472,8 +472,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The clipboard holds important papers.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -481,8 +481,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The clipboard is next to the printer.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -490,8 +490,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The highlighter marks important information.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -499,8 +499,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The highlighter is yellow.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -508,8 +508,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The stapler is on the receptionist's desk.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -517,8 +517,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The stapler keeps papers together.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -526,8 +526,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The tape dispenser is beside the computer.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -535,8 +535,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The tape dispenser is black.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -544,8 +544,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sarah is an assistant in the office.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -553,8 +553,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "John is the office manager.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -562,8 +562,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Maria works in the finance department.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -571,8 +571,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "David organizes documents in the filing cabinet.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -580,8 +580,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The receptionist answers phone calls.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -589,8 +589,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The manager checks reports every morning.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -598,8 +598,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Employees use envelopes for documents.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -607,8 +607,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Workers write notes on sticky notes.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -616,8 +616,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The assistant uses a clipboard during meetings.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -625,8 +625,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The secretary uses a highlighter for reports.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -634,8 +634,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The office has three filing cabinets.",
-    "Unit": "2",
-    "Rol": "Student A",
+    "Unit": 2,
+    "Role": "Student A",
     "Topic": "The Office"
   },
   {
@@ -643,8 +643,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The team works in the office every day.",
-    "Unit": "2",
-    "Rol": "Student B",
+    "Unit": 2,
+    "Role": "Student B",
     "Topic": "The Office"
   },
   {
@@ -652,8 +652,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I have a red waste basket.​",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -661,8 +661,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The company sells expensive products.​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -670,8 +670,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The blue highlighter is next to the stapler.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -679,8 +679,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The clipboard is cheap, but clips aren’t good.​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -688,8 +688,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "This tape dispenser is expensive but uncomfortable.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -697,8 +697,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "This coffee is cold; I don’t like cold coffee. ​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -706,8 +706,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The keyboard of my computer is old.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -715,8 +715,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My son is tall; I am short.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -724,8 +724,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I have two nices classmates.​",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -733,8 +733,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "The books are new.​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -742,8 +742,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I study an easy language.​",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -751,8 +751,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "This cat is very comfortable on the sofa.​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -760,8 +760,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am not a rude person.​",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -769,8 +769,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Sometimes, my computer is very slow.​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -778,8 +778,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "This is a very expensive blouse.​",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Adjectives"
   },
   {
@@ -787,8 +787,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "Pablo is young but he has a new car.​",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Adjectives"
   },
   {
@@ -796,8 +796,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is a responsible employee.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -805,8 +805,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am friendly and creative.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -814,8 +814,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are athletic and strong.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -823,8 +823,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is a patient teacher.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -832,8 +832,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are intelligent and polite.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -841,8 +841,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are a cheerful team.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -850,8 +850,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is handsome and tall.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -859,8 +859,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am a creative girl.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -868,8 +868,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is beautiful and slim.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -877,8 +877,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are honest and organized.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -886,8 +886,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are a funny student.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -895,8 +895,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are confident and ambitious.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -904,8 +904,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is helpful and kind.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -913,8 +913,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am a shy girl.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -922,8 +922,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are generous and caring.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -931,8 +931,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are a calm person.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -940,8 +940,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is serious and reliable.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -949,8 +949,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are an organized group.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -958,8 +958,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is a talented artist.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -967,8 +967,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am tall and thin.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -976,8 +976,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are young and athletic.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -985,8 +985,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are a brave person.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -994,8 +994,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is an active employee.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1003,8 +1003,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is pretty and young.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1012,8 +1012,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are friendly and helpful.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1021,8 +1021,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am a hard-working student.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1030,8 +1030,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are punctual and responsible.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1039,8 +1039,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are outgoing and funny.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1048,8 +1048,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is a sociable worker.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1057,8 +1057,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is a beautiful woman.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1066,8 +1066,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am kind and patient.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1075,8 +1075,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are a careful team.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1084,8 +1084,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are slim and healthy.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1093,8 +1093,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are creative and intelligent.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1102,8 +1102,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is muscular and athletic.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1111,8 +1111,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is a friendly teacher.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1120,8 +1120,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am a confident student.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1129,8 +1129,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is a creative designer.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1138,8 +1138,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am friendly and kind.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1147,8 +1147,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "They are confident and energetic.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1156,8 +1156,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "You are a polite employee.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1165,8 +1165,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are a sociable group.",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1174,8 +1174,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "He is a hard-working man.",
-    "Unit": "1",
-    "Rol": "Student A",
+    "Unit": 1,
+    "Role": "Student A",
     "Topic": "Personal profile"
   },
   {
@@ -1183,8 +1183,8 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "She is pretty and",
-    "Unit": "1",
-    "Rol": "Student B",
+    "Unit": 1,
+    "Role": "Student B",
     "Topic": "Personal profile"
   },
   {
@@ -1193,7 +1193,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "These season's products are on sale until Friday.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1202,7 +1202,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Our new products are very popular.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1211,7 +1211,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The store has good profits this year.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1220,7 +1220,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Large sizes cost the same as every other size.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1229,7 +1229,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The store has this shirt in your size.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1238,7 +1238,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "We have a lot of stock for this item.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1247,7 +1247,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "There is no stock left for that product.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1256,7 +1256,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "All shoes are 20 percent off today.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1265,7 +1265,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "This jacket is 50 percent off.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1274,7 +1274,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Some people like to bargain at local markets.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1283,7 +1283,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The cashiers are busy this afternoon.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1292,7 +1292,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "There are four cashiers in this store.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1301,7 +1301,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Many customers visit the mall on weekends.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1310,7 +1310,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The customers are looking at the new products.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1319,7 +1319,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Her purse is on the shopping cart.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1328,7 +1328,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "My purse is under the table.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1337,7 +1337,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "He keeps his money in his wallet.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1346,7 +1346,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "My wallet is black.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1355,7 +1355,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The scale is next to the vegetables.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1364,7 +1364,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Put the fruit on the scale.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1373,7 +1373,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The bread is on the top shelf.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1382,7 +1382,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The milk is on a different shelf.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1391,7 +1391,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The basket is full of food.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1400,7 +1400,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "She carries a small basket.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1409,7 +1409,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The cart is near the entrance.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1418,7 +1418,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Our cart is very heavy.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1427,7 +1427,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "These clothes are on sale.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1436,7 +1436,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The store sells winter clothes.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1445,7 +1445,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The barcodes help the cashier check prices.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1454,7 +1454,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The scanner reads the barcodes quickly.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1463,7 +1463,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "I usually pay by credit card.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1472,7 +1472,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "She paid with a credit card.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
   },
   {
@@ -1481,7 +1481,7 @@
     "Sublevel": "A2.1",
     "Retention sentence": "The store has a big clearance this month.",
     "Unit": "",
-    "Rol": "Student A",
+    "Role": "Student A",
     "Topic": "Shopping"
   },
   {
@@ -1490,7 +1490,97 @@
     "Sublevel": "A2.1",
     "Retention sentence": "Many customers visit the clearance section.",
     "Unit": "",
-    "Rol": "Student B",
+    "Role": "Student B",
     "Topic": "Shopping"
+  },
+  {
+    "Title": "A12-0014",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I am starting a new job today.",
+    "Unit": "",
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0015",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I am very happy and anxious.",
+    "Unit": "",
+    "Role": "Student B",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0016",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My new boss is nice and polite.",
+    "Unit": "",
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0017",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I will hit it out of the park!",
+    "Unit": "",
+    "Role": "Student B",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0018",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are working together to increase sales.",
+    "Unit": "",
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0019",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We need to shape up or ship out.",
+    "Unit": "",
+    "Role": "Student B",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0020",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are increasing production next week.",
+    "Unit": "",
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0021",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I am working hard and doing my best.",
+    "Unit": "",
+    "Role": "Student B",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0022",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "This company is manufacturing office supplies",
+    "Unit": "",
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
+    "Title": "A12-0023",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My effort isn’t going down the drain.",
+    "Unit": "",
+    "Role": "Student B",
+    "Topic": "The office"
   }
 ]
