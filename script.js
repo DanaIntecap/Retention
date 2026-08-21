@@ -7,29 +7,35 @@ let recognition = null;
 const filterNivel = document.getElementById('filterNivel');
 const filterSubnivel = document.getElementById('filterSubnivel');
 const filterUnidad = document.getElementById('filterUnidad');
-const filterRol = document.getElementById('filterRol'); 
+const filterRol = document.getElementById('filterRol');
 const sentenceSelect = document.getElementById('sentenceSelect');
 const feedbackBox = document.getElementById('feedbackBox');
 
-// Forzar carga de voces 
-window.speechSynthesis.onvoiceschanged = function() {
+// Forzar carga de voces
+window.speechSynthesis.onvoiceschanged = function () {
     window.speechSynthesis.getVoices();
 };
 
 // 1. Cargar JSON
-fetch("sentences.json")
+// Se agrega "?v=" + Date.now() para evitar que el navegador (o el CDN de Azure)
+// sirva una copia vieja en caché de sentences.json mientras se está desarrollando.
+fetch("sentences.json?v=" + Date.now())
     .then(response => {
-        if (!response.ok) throw new Error("No se pudo cargar sentences.json");
+        if (!response.ok) throw new Error("No se pudo cargar sentences.json (HTTP " + response.status + ")");
         return response.json();
     })
     .then(data => {
         allData = data;
         populateFilters();
-        applyFilters();
+        // Se inicializa toda la cadena de filtros (Nivel -> Subnivel -> Unidad -> lista de audios)
+        // para que las oraciones aparezcan desde el primer render, sin esperar a que
+        // el usuario toque un filtro.
+        updateSubniveles();
     })
     .catch(error => {
         console.error("Error cargando data:", error);
         feedbackBox.innerHTML = "❌ Error cargando las oraciones. Revisa sentences.json";
+        feedbackBox.style.borderColor = "#e74c3c";
     });
 
 // 2. Filtros en Cascada
@@ -40,7 +46,7 @@ function populateFilters() {
     filterNivel.addEventListener('change', updateSubniveles);
     filterSubnivel.addEventListener('change', updateUnidades);
     filterUnidad.addEventListener('change', applyFilters);
-    if(filterRol) filterRol.addEventListener('change', applyFilters); 
+    if (filterRol) filterRol.addEventListener('change', applyFilters);
     sentenceSelect.addEventListener('change', selectSentence);
 }
 
@@ -49,7 +55,7 @@ function updateSubniveles() {
     filterSubnivel.innerHTML = '<option value="">Subniveles</option>';
     let subniveles = allData;
     if (nivelVal) subniveles = subniveles.filter(item => item.Level === nivelVal);
-    
+
     [...new Set(subniveles.map(item => item.Sublevel))].filter(Boolean).sort()
         .forEach(s => filterSubnivel.innerHTML += `<option value="${s}">${s}</option>`);
     updateUnidades();
@@ -60,8 +66,10 @@ function updateUnidades() {
     filterUnidad.innerHTML = '<option value="">Unidades</option>';
     let unidades = allData;
     if (subnivelVal) unidades = unidades.filter(item => item.Sublevel === subnivelVal);
-    
-    [...new Set(unidades.map(item => item.Unit))].filter(Boolean).sort((a,b) => Number(a) - Number(b))
+
+    [...new Set(unidades.map(item => item.Unit))]
+        .filter(u => u !== undefined && u !== null && u !== "")
+        .sort((a, b) => Number(a) - Number(b))
         .forEach(u => filterUnidad.innerHTML += `<option value="${u}">Unidad ${u}</option>`);
     applyFilters();
 }
@@ -71,11 +79,11 @@ function applyFilters() {
         const matchNivel = !filterNivel.value || item.Level === filterNivel.value;
         const matchSubnivel = !filterSubnivel.value || item.Sublevel === filterSubnivel.value;
         const matchUnidad = !filterUnidad.value || String(item.Unit) === String(filterUnidad.value);
-        
-        // Se actualizó para leer "role" (o "Role" por si Excel lo pone en mayúscula)
+
+        // Lee "role" o "Role" (por si el Excel exporta la columna con mayúscula distinta)
         const itemRole = item.role || item.Role;
         const matchRol = !filterRol || !filterRol.value || itemRole === filterRol.value;
-        
+
         return matchNivel && matchSubnivel && matchUnidad && matchRol;
     });
 
@@ -83,7 +91,7 @@ function applyFilters() {
     filteredData.forEach(item => {
         sentenceSelect.innerHTML += `<option value="${item.Title}">${item.Title}</option>`;
     });
-    
+
     currentSentence = null;
     resetFeedback();
 }
@@ -104,17 +112,17 @@ function playAudio(speed) {
     if (!currentSentence) return alert("Selecciona un audio primero.");
     if (!currentSentence["Retention sentence"]) return alert("Error: La columna 'Retention sentence' está vacía en este registro.");
 
-    window.speechSynthesis.cancel(); 
-    
+    window.speechSynthesis.cancel();
+
     const msg = new SpeechSynthesisUtterance(currentSentence["Retention sentence"]);
-    
+
     const voices = window.speechSynthesis.getVoices();
     let engVoice = voices.find(v => v.lang.startsWith("en-US")) || voices.find(v => v.lang.startsWith("en"));
-    if(engVoice) msg.voice = engVoice;
-    
+    if (engVoice) msg.voice = engVoice;
+
     msg.lang = "en-US";
     msg.rate = speed;
-    
+
     window.speechSynthesis.speak(msg);
 }
 
@@ -138,7 +146,7 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
     feedbackBox.innerHTML = "🎤 Escuchando... habla ahora.";
     feedbackBox.style.borderColor = "#f1c40f";
     feedbackBox.style.color = "#d35400";
-    
+
     recognition.onresult = (event) => {
         const spoken = event.results[0][0].transcript;
         compare(spoken, currentSentence["Retention sentence"]);
@@ -146,10 +154,10 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
 
     recognition.onerror = (event) => {
         console.error("Error micrófono:", event.error);
-        if(event.error === 'not-allowed') {
-             feedbackBox.innerHTML = "❌ Permiso de micrófono denegado. Dale permiso al navegador.";
+        if (event.error === 'not-allowed') {
+            feedbackBox.innerHTML = "❌ Permiso de micrófono denegado. Dale permiso al navegador.";
         } else {
-             feedbackBox.innerHTML = "❌ No te escuché bien. Intenta de nuevo.";
+            feedbackBox.innerHTML = "❌ No te escuché bien. Intenta de nuevo.";
         }
     };
 
@@ -157,8 +165,8 @@ document.getElementById('btnSpeak').addEventListener('click', () => {
 });
 
 function compare(spoken, expected) {
-    if(!expected) return;
-    
+    if (!expected) return;
+
     const cleanSpoken = spoken.toLowerCase().replace(/[.,!?']/g, "").trim();
     const cleanExpected = expected.toLowerCase().replace(/[.,!?']/g, "").trim();
 
