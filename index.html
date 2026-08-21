@@ -4,20 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>English Journey - Listen, Speak & Check</title>
-    
+    <link rel="icon" href="data:,">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
+
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
 <div class="container">
     <div class="logo-intecap">
         <img src="logo-intecap.png" alt="INTECAP">
     </div>
-
     <div class="banner">
         <div class="logo-center">
             <img src="ingles-para-todos.png" alt="English Journey">
@@ -25,17 +24,15 @@
         <h1>ENGLISH JOURNEY</h1>
         <h2>Retention Practice (Pair Work)</h2>
     </div>
-
     <div class="header-title">
         <span class="checkbox-icon">✅</span>
         <h3>Listen, Speak & Check</h3>
     </div>
-
     <details class="institutional-section">
         <summary><strong>Ficha Técnica e Instrucciones (Clic para expandir)</strong></summary>
         <div class="details-content">
             <p><strong>Skill:</strong> Speaking & Listening (Interactive Pair Work)</p>
-            
+
             <h3>📌 Instrucciones de la Dinámica</h3>
             <p>Trabaja con un compañero. Decidan quién será el <strong>Student A</strong> y quién el <strong>Student B</strong>.</p>
             <ol>
@@ -46,7 +43,6 @@
             </ol>
         </div>
     </details>
-
     <div class="filters">
         <select id="filterNivel"><option value="">Niveles</option></select>
         <select id="filterSubnivel"><option value="">Subniveles</option></select>
@@ -57,7 +53,6 @@
             <option value="Student B">Student B</option>
         </select>
     </div>
-
     <div class="retention-card">
         <div class="audio-selector">
             <span>🎧</span>
@@ -65,21 +60,17 @@
                 <option value="">Selecciona un audio...</option>
             </select>
         </div>
-
         <div class="button-row">
             <button class="btn btn-blue" id="btnPlayNormal">▶ Escuchar (1x)</button>
             <button class="btn btn-blue-dark" id="btnPlaySlow">🐢 Escuchar (0.85x)</button>
         </div>
-
         <button class="btn btn-green" id="btnSpeak">🎤 Hablar para Comprobar</button>
         <button class="btn btn-orange" id="btnGiveUp">👁️ Mostrar Oración (Rendirse)</button>
-
         <div id="feedbackBox" class="feedback-box">
             🎧 Selecciona un audio y escúchalo primero...
         </div>
     </div>
 </div>
-
 <script src="script.js"></script>
 </body>
 </html>
