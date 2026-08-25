@@ -11,38 +11,155 @@
     <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="style.css">
+
+    <style>
+        /* Estilos específicos para el acordeón (por si no quieres agregarlos en línea) */
+        details.instrucciones-desplegables {
+            background: #f8f9fa;
+            border-left: 8px solid #0060AA;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+        details.instrucciones-desplegables summary {
+            font-family: 'Poppins', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            color: #0060AA;
+            outline: none;
+        }
+        .instrucciones-contenido {
+            margin-top: 15px;
+            cursor: default;
+            color: #333;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 15px;
+        }
+        .instrucciones-contenido h3 {
+            color: #008D36;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        .instrucciones-contenido ul,
+        .instrucciones-contenido ol {
+            padding-left: 20px;
+        }
+        .instrucciones-contenido li {
+            margin-bottom: 8px;
+        }
+
+        /* Ficha Pedagógica: mismo patrón visual que la ficha técnica,
+           pero con acento distinto para identificarla como guía docente */
+        details.ficha-pedagogica {
+            background: #f3effa;
+            border-left: 8px solid #6a3fa0;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+        details.ficha-pedagogica summary {
+            font-family: 'Poppins', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            color: #6a3fa0;
+            outline: none;
+        }
+        details.ficha-pedagogica .instrucciones-contenido h3 {
+            color: #6a3fa0;
+        }
+    </style>
 </head>
 <body>
 <div class="container">
-    <div class="logo-intecap">
-        <img src="logo-intecap.png" alt="INTECAP">
-    </div>
-    <div class="banner">
-        <div class="logo-center">
-            <img src="ingles-para-todos.png" alt="English Journey">
+
+    <!-- Logos institucionales -->
+    <div class="logos-row">
+        <div class="logo-intecap">
+            <img src="logo-intecap.png" alt="INTECAP" onerror="this.style.display='none'">
         </div>
+        <div class="logo-derecha">
+            <img src="ingles-para-todos.png" alt="English Journey" onerror="this.style.display='none'">
+        </div>
+    </div>
+
+    <!-- Aviso de uso: texto fijo, igual en todas las unidades -->
+    <div class="usage-notice">
+        📌 Uso: 🚫 Esta actividad no está diseñada para dejarse como tarea. Su propósito es facilitar la práctica guiada, el acompañamiento docente y el apoyo inmediato al estudiante durante la sesión de clase.
+    </div>
+
+    <div class="banner">
         <h1>ENGLISH JOURNEY</h1>
         <h2>Retention Practice (Pair Work)</h2>
     </div>
+
     <div class="header-title">
         <span class="checkbox-icon">✅</span>
         <h3>Listen, Speak & Check</h3>
     </div>
-    <details class="institutional-section">
-        <summary><strong>Ficha Técnica e Instrucciones (Clic para expandir)</strong></summary>
-        <div class="details-content">
-            <p><strong>Skill:</strong> Speaking & Listening (Interactive Pair Work)</p>
 
-            <h3>📌 Instrucciones de la Dinámica</h3>
+    <!-- Ficha Técnica e Instrucciones (Acordeón Desplegable) -->
+    <details class="instrucciones-desplegables">
+        <summary>📖 Ver Ficha Técnica e Instrucciones de la Actividad</summary>
+
+        <div class="instrucciones-contenido">
+            <p style="margin: 5px 0;"><strong>Skill Principal:</strong> Speaking & Listening (Interactive Pair Work)</p>
+            <p style="margin: 5px 0;"><strong>CEFR Level:</strong> Multilevel</p>
+            <p style="margin: 15px 0;"><strong>Descripción de la Actividad:</strong> Actividad interactiva de retención auditiva y producción oral basada en el principio de Information Gap (vacío de información). Un estudiante escucha y dicta una oración modelo, mientras que el compañero la retiene y la reproduce oralmente para ser validada por el sistema.</p>
+
+            <h3>🎯 Objetivo de Aprendizaje</h3>
+            <p>Desarrollar la memoria de trabajo y la precisión oral al escuchar, retener y reproducir oraciones completas con la pronunciación y entonación adecuadas en un entorno colaborativo.</p>
+
+            <h3>📌 Instrucciones de la Dinámica (Estudiantes)</h3>
             <p>Trabaja con un compañero. Decidan quién será el <strong>Student A</strong> y quién el <strong>Student B</strong>.</p>
             <ol>
-                <li>Filtra por tu Nivel, Unidad y selecciona <strong>tu Rol</strong>.</li>
-                <li><strong>El que dicta:</strong> Selecciona un audio y escúchalo usando el botón azul (para obtener la pronunciación correcta). Luego, díctaselo a tu compañero.</li>
-                <li><strong>El que escucha:</strong> Presta atención a lo que dice tu compañero. Haz clic en <strong>"🎤 Hablar para Comprobar"</strong> y repite la oración al micrófono para validarla con el sistema.</li>
-                <li>Intercambien roles y continúen con el siguiente audio.</li>
+                <li><strong>Filtra:</strong> Selecciona tu Nivel, Unidad y tu Rol correspondiente en los menús desplegables.</li>
+                <li><strong>El que dicta:</strong> Selecciona un audio y escúchalo usando el botón azul para obtener la pronunciación correcta. Luego, díctaselo a tu compañero.</li>
+                <li><strong>El que escucha:</strong> Presta atención a lo que dice tu compañero. Haz clic en "🎤 Hablar para Comprobar" y repite la oración al micrófono para validarla con el sistema.</li>
+                <li><strong>Intercambio:</strong> Si necesitan ayuda, usen "👁️ Mostrar Oración (Rendirse)" para leer el texto. Intercambien roles y continúen con el siguiente audio.</li>
             </ol>
+
+            <h3>✅ Criterios de Éxito</h3>
+            <ul style="margin-bottom: 0;">
+                <li>Retiene en su memoria a corto plazo oraciones completas y las reproduce con precisión.</li>
+                <li>Logra que el sistema de reconocimiento de voz valide su pronunciación.</li>
+                <li>Colabora activamente asumiendo de manera correcta los roles de emisor y receptor.</li>
+            </ul>
         </div>
     </details>
+
+    <!-- Ficha Pedagógica para el Instructor (Acordeón Desplegable, aparte de la ficha técnica) -->
+    <details class="ficha-pedagogica">
+        <summary>👩‍🏫 Ver Ficha Pedagógica (Guía para el Instructor)</summary>
+
+        <div class="instrucciones-contenido">
+            <h3>1. Preparación y Contextualización del Beneficio</h3>
+            <ul>
+                <li><strong>Gestión de roles:</strong> Divide a la clase en parejas y asegúrate de que comprendan cómo elegir el filtro de Student A y Student B para que el sistema les oculte las oraciones del compañero.</li>
+                <li><strong>Justificación:</strong> Explica a los estudiantes que el gran beneficio de esta dinámica es evitar repetir errores (fosilización). Quien dicta siempre tendrá un modelo nativo perfecto (botón azul) antes de hablar, y quien escucha será validado objetivamente por la inteligencia artificial.</li>
+            </ul>
+
+            <h3>2. Modelado de la Dinámica (Demostración Frontal)</h3>
+            <ul>
+                <li><strong>Proyección:</strong> Proyecta la herramienta compartiendo pantalla.</li>
+                <li><strong>Rol del tutor:</strong> Asume tú el rol de "Student A" (el que dicta). Presiona el botón azul (1x o 0.85x) para escuchar en privado (con audífonos) o a bajo volumen, y dicta la oración a la clase.</li>
+                <li><strong>Rol del voluntario:</strong> Pide a un alumno voluntario ("Student B") que active el micrófono y repita tu dictado para demostrar cómo la caja de retroalimentación valida o corrige la respuesta.</li>
+            </ul>
+
+            <h3>3. Ejecución y Monitoreo (Scaffolding)</h3>
+            <ul style="margin-bottom: 0;">
+                <li><strong>Entornos virtuales (Teams/Zoom):</strong> Utiliza salas pequeñas (Breakout Rooms). Un estudiante comparte la pantalla y maneja los controles, pero ambos se turnan para usar el micrófono.</li>
+                <li><strong>Andamiaje:</strong> Circula por las salas verificando que los alumnos utilicen el audio nativo como su modelo de referencia principal para dictar, garantizando así un circuito cerrado de retroalimentación perfecta.</li>
+            </ul>
+        </div>
+    </details>
+
     <div class="filters">
         <select id="filterNivel"><option value="">Niveles</option></select>
         <select id="filterSubnivel"><option value="">Subniveles</option></select>
