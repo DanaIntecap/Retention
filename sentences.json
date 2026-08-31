@@ -913,7 +913,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "These season's products are on sale until Friday.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -922,7 +922,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Our new products are very popular.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -931,7 +931,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store has good profits this year.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -940,7 +940,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Large sizes cost the same as every other size.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -949,7 +949,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store has this shirt in your size.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -958,7 +958,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "We have a lot of stock for this item.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -967,7 +967,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "There is no stock left for that product.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -976,7 +976,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "All shoes are 20 percent off today.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -985,7 +985,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "This jacket is 50 percent off.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -994,7 +994,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Some people like to bargain at local markets.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1003,7 +1003,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The cashiers are busy this afternoon.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1012,7 +1012,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "There are four cashiers in this store.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1021,7 +1021,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Many customers visit the mall on weekends.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1030,7 +1030,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The customers are looking at the new products.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1039,7 +1039,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Her purse is on the shopping cart.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1048,7 +1048,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "My purse is under the table.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1057,7 +1057,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "He keeps his money in his wallet.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1066,7 +1066,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "My wallet is black.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1075,7 +1075,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The scale is next to the vegetables.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1084,7 +1084,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Put the fruit on the scale.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1093,7 +1093,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The bread is on the top shelf.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1102,7 +1102,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The milk is on a different shelf.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1111,7 +1111,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The basket is full of food.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1120,7 +1120,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "She carries a small basket.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1129,7 +1129,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The cart is near the entrance.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1138,7 +1138,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Our cart is very heavy.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1147,7 +1147,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "These clothes are on sale.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1156,7 +1156,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store sells winter clothes.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1165,7 +1165,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The barcodes help the cashier check prices.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1174,7 +1174,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The scanner reads the barcodes quickly.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1183,7 +1183,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "I usually pay by credit card.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1192,7 +1192,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "She paid with a credit card.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1201,7 +1201,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store has a big clearance this month.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1210,7 +1210,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Many customers visit the clearance section.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1219,7 +1219,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am starting a new job today.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "The office"
   },
@@ -1228,7 +1228,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am very happy and anxious.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "The office"
   },
@@ -1237,7 +1237,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My new boss is nice and polite.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "The office"
   },
@@ -1246,7 +1246,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I will hit it out of the park!",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "The office"
   },
@@ -1255,7 +1255,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are working together to increase sales.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "The office"
   },
@@ -1264,7 +1264,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We need to shape up or ship out.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "The office"
   },
@@ -1273,7 +1273,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are increasing production next week.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "The office"
   },
@@ -1282,7 +1282,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am working hard and doing my best.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "The office"
   },
@@ -1291,7 +1291,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "This company is manufacturing office supplies.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student A",
     "Topic": "The office"
   },
@@ -1300,7 +1300,7 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My effort isn't going down the drain.",
-    "Unit": "",
+    "Unit": 3,
     "Role": "Student B",
     "Topic": "The office"
   }
