@@ -1,113 +1,5 @@
 [
   {
-    "Title": "A21-0001",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "The customer was happy with the big clearance sale.",
-    "Unit": 1,
-    "Role": "Student A",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0002",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "The clothes on the shelf were too small for me.",
-    "Unit": 1,
-    "Role": "Student B",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0003",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "Were the items in your basket discounted?",
-    "Unit": 1,
-    "Role": "Student A",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0004",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "I wasn't able to find my wallet inside my purse.",
-    "Unit": 1,
-    "Role": "Student B",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0005",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "They weren't interested in buying a product with 20 percent off.",
-    "Unit": 1,
-    "Role": "Student A",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0006",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "Why was the barcode on the product incorrect?",
-    "Unit": 1,
-    "Role": "Student B",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0007",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "The cashier wasn't ready to accept my debit card.",
-    "Unit": 1,
-    "Role": "Student A",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0008",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "Were you looking for a different size?",
-    "Unit": 1,
-    "Role": "Student B",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0009",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "The new stock was placed near the entrance yesterday.",
-    "Unit": 1,
-    "Role": "Student A",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0010",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "We weren't able to bargain for a better price.",
-    "Unit": 1,
-    "Role": "Student B",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0011",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "Were the cart and the basket clean?",
-    "Unit": 1,
-    "Role": "Student A",
-    "Topic": "Buying and selling"
-  },
-  {
-    "Title": "A21-0012",
-    "Level": "A2",
-    "Sublevel": "A2.1",
-    "Retention sentence": "The manager wasn't sure if the profit was high last month.",
-    "Unit": 1,
-    "Role": "Student B",
-    "Topic": "Buying and selling"
-  },
-  {
     "Title": "A12-0001",
     "Level": "A1",
     "Sublevel": "A1.2",
@@ -234,6 +126,15 @@
     "Topic": "The Office"
   },
   {
+    "Title": "A12-0014",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I am starting a new job today.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
     "Title": "A12-0015",
     "Level": "A1",
     "Sublevel": "A1.2",
@@ -241,6 +142,15 @@
     "Unit": 2,
     "Role": "Student A",
     "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0015",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I am very happy and anxious.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The office"
   },
   {
     "Title": "A12-0016",
@@ -252,6 +162,15 @@
     "Topic": "The Office"
   },
   {
+    "Title": "A12-0016",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My new boss is nice and polite.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
     "Title": "A12-0017",
     "Level": "A1",
     "Sublevel": "A1.2",
@@ -259,6 +178,15 @@
     "Unit": 2,
     "Role": "Student A",
     "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0017",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I will hit it out of the park!",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The office"
   },
   {
     "Title": "A12-0018",
@@ -270,6 +198,15 @@
     "Topic": "The Office"
   },
   {
+    "Title": "A12-0018",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are working together to increase sales.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
     "Title": "A12-0019",
     "Level": "A1",
     "Sublevel": "A1.2",
@@ -277,6 +214,15 @@
     "Unit": 2,
     "Role": "Student A",
     "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0019",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We need to shape up or ship out.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The office"
   },
   {
     "Title": "A12-0020",
@@ -288,6 +234,15 @@
     "Topic": "The Office"
   },
   {
+    "Title": "A12-0020",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are increasing production next week.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
     "Title": "A12-0021",
     "Level": "A1",
     "Sublevel": "A1.2",
@@ -295,6 +250,15 @@
     "Unit": 2,
     "Role": "Student A",
     "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0021",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I am working hard and doing my best.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The office"
   },
   {
     "Title": "A12-0022",
@@ -306,6 +270,15 @@
     "Topic": "The Office"
   },
   {
+    "Title": "A12-0022",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "This company is manufacturing office supplies",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The office"
+  },
+  {
     "Title": "A12-0023",
     "Level": "A1",
     "Sublevel": "A1.2",
@@ -313,6 +286,15 @@
     "Unit": 2,
     "Role": "Student A",
     "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0023",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My effort isn�t going down the drain.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The office"
   },
   {
     "Title": "A12-0024",
@@ -378,10 +360,280 @@
     "Topic": "The Office"
   },
   {
+    "Title": "A12-0031",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The desk is near the window.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0032",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My desk is clean and organized.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0033",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The filing cabinet has important documents.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0034",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Employees use the filing cabinet every day.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0035",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The waste basket is under the desk.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0036",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The waste basket is full of paper.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0037",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Sticky notes help employees remember tasks.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0038",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Sticky notes are on the monitor.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0039",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The envelope contains a letter.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0040",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The envelope is on the manager's desk.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0041",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The clipboard holds important papers.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0042",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The clipboard is next to the printer.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0043",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The highlighter is for important information.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0044",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The highlighter is yellow.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0045",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The stapler is on the desk.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0046",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The stapler keeps papers together.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0047",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The tape dispenser is next to the computer.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0048",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The tape dispenser is black.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0049",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Sarah is an assistant in the office.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0050",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "John is the office manager.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0051",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Maria works in the finance department.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0052",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "David organizes documents in the filing cabinet.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0053",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The receptionist answers phone calls.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0054",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The manager checks reports every morning.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0055",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Employees use envelopes for documents.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0056",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Workers write notes on sticky notes.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0057",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The assistant uses a clipboard during meetings.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0058",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The secretary uses a highlighter for reports.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0059",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The office has three filing cabinets.",
+    "Unit": 2,
+    "Role": "Student A",
+    "Topic": "The Office"
+  },
+  {
+    "Title": "A12-0060",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The team works in the office every day.",
+    "Unit": 2,
+    "Role": "Student B",
+    "Topic": "The Office"
+  },
+  {
     "Title": "A12-0061",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I have a red waste basket.",
+    "Retention sentence": "I have a red waste basket.?",
     "Unit": 1,
     "Role": "Student A",
     "Topic": "Adjectives"
@@ -390,7 +642,7 @@
     "Title": "A12-0062",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "The company sells expensive products.",
+    "Retention sentence": "The company sells expensive products.?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -408,7 +660,7 @@
     "Title": "A12-0064",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "The clipboard is cheap, but clips aren't good.",
+    "Retention sentence": "The clipboard is cheap, but clips aren�t good.?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -426,7 +678,7 @@
     "Title": "A12-0066",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "This coffee is cold; I don't like cold coffee.",
+    "Retention sentence": "This coffee is cold; I don�t like cold coffee. ?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -453,7 +705,7 @@
     "Title": "A12-0069",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I have two nice classmates.",
+    "Retention sentence": "I have two nices classmates.?",
     "Unit": 1,
     "Role": "Student A",
     "Topic": "Adjectives"
@@ -462,7 +714,7 @@
     "Title": "A12-0070",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "The books are new.",
+    "Retention sentence": "The books are new.?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -471,7 +723,7 @@
     "Title": "A12-0071",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I study an easy language.",
+    "Retention sentence": "I study an easy language.?",
     "Unit": 1,
     "Role": "Student A",
     "Topic": "Adjectives"
@@ -480,7 +732,7 @@
     "Title": "A12-0072",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "This cat is very comfortable on the sofa.",
+    "Retention sentence": "This cat is very comfortable on the sofa.?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -489,7 +741,7 @@
     "Title": "A12-0073",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I am not a rude person.",
+    "Retention sentence": "I am not a rude person.?",
     "Unit": 1,
     "Role": "Student A",
     "Topic": "Adjectives"
@@ -498,7 +750,7 @@
     "Title": "A12-0074",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "Sometimes, my computer is very slow.",
+    "Retention sentence": "Sometimes, my computer is very slow.?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -507,7 +759,7 @@
     "Title": "A12-0075",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "This is a very expensive blouse.",
+    "Retention sentence": "This is a very expensive blouse.?",
     "Unit": 1,
     "Role": "Student A",
     "Topic": "Adjectives"
@@ -516,7 +768,7 @@
     "Title": "A12-0076",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "Pablo is young but he has a new car.",
+    "Retention sentence": "Pablo is young but he has a new car.?",
     "Unit": 1,
     "Role": "Student B",
     "Topic": "Adjectives"
@@ -909,11 +1161,128 @@
     "Topic": "Personal profile"
   },
   {
+    "Title": "A12-0120",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She is pretty and intelligent",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Personal profile"
+  },
+  {
+    "Title": "A21-0001",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The customer was happy with the big clearance sale.",
+    "Unit": 1,
+    "Role": "Student A",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0002",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The clothes on the shelf were too small for me.",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0003",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Were the items in your basket discounted?",
+    "Unit": 1,
+    "Role": "Student A",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0004",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I wasn't able to find my wallet inside my purse.",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0005",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "They weren't interested in buying a product with 20 percent off.",
+    "Unit": 1,
+    "Role": "Student A",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0006",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Why was the barcode on the product incorrect?",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0007",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The cashier wasn't ready to accept my debit card.",
+    "Unit": 1,
+    "Role": "Student A",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0008",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Were you looking for a different size?",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0009",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The new stock was placed near the entrance yesterday.",
+    "Unit": 1,
+    "Role": "Student A",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0010",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We weren't able to bargain for a better price.",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0011",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Were the cart and the basket clean?",
+    "Unit": 1,
+    "Role": "Student A",
+    "Topic": "Buying and selling"
+  },
+  {
+    "Title": "A21-0012",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The manager wasn't sure if the profit was high last month.",
+    "Unit": 1,
+    "Role": "Student B",
+    "Topic": "Buying and selling"
+  },
+  {
     "Title": "A21-0013",
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "These season's products are on sale until Friday.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -922,7 +1291,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Our new products are very popular.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -931,7 +1300,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store has good profits this year.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -940,7 +1309,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Large sizes cost the same as every other size.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -949,7 +1318,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store has this shirt in your size.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -958,7 +1327,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "We have a lot of stock for this item.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -967,7 +1336,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "There is no stock left for that product.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -976,7 +1345,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "All shoes are 20 percent off today.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -985,7 +1354,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "This jacket is 50 percent off.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -994,7 +1363,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Some people like to bargain at local markets.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1003,7 +1372,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The cashiers are busy this afternoon.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1012,7 +1381,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "There are four cashiers in this store.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1021,7 +1390,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Many customers visit the mall on weekends.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1030,7 +1399,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The customers are looking at the new products.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1039,7 +1408,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Her purse is on the shopping cart.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1048,7 +1417,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "My purse is under the table.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1057,7 +1426,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "He keeps his money in his wallet.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1066,7 +1435,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "My wallet is black.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1075,7 +1444,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The scale is next to the vegetables.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1084,7 +1453,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Put the fruit on the scale.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1093,7 +1462,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The bread is on the top shelf.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1102,7 +1471,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The milk is on a different shelf.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1111,7 +1480,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The basket is full of food.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1120,7 +1489,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "She carries a small basket.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1129,7 +1498,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The cart is near the entrance.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1138,7 +1507,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Our cart is very heavy.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1147,7 +1516,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "These clothes are on sale.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1156,7 +1525,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store sells winter clothes.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1165,7 +1534,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The barcodes help the cashier check prices.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1174,7 +1543,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The scanner reads the barcodes quickly.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1183,7 +1552,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "I usually pay by credit card.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1192,7 +1561,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "She paid with a credit card.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
@@ -1201,7 +1570,7 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "The store has a big clearance this month.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student A",
     "Topic": "Shopping"
   },
@@ -1210,98 +1579,890 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Retention sentence": "Many customers visit the clearance section.",
-    "Unit": 3,
+    "Unit": 1,
     "Role": "Student B",
     "Topic": "Shopping"
   },
   {
-    "Title": "A12-0014-P",
+    "Title": "A12-0121",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I am starting a new job today.",
+    "Retention sentence": "We need a lot of disinfectant to clean the dirty floors.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0122",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I would like a cheese cake with cream on the top, please.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0123",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My dad and mom work hard to bring home the bacon.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0124",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "When cooking, don�t add too much oil to the food.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0125",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Please buy some wine and water for the party.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0126",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Crying over spilled milk won�t make things any better.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0127",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "George wants to eat rice and chicken everyday.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0128",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Steve never cooks and always orders pizza. He�s a couch potato.�",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0129",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We use disinfectant to clean the kitchen.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0130",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I put cream in my coffee every morning.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0131",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My parents work hard to bring home the bacon.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0132",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Add a little oil to the salad.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0133",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "My uncle likes to drink wine with dinner.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0134",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I drink a lot of water every day.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0135",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Don't cry over spilled milk. You can try again.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0136",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We eat chicken and rice for lunch.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0137",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Tom is a couch potato. He sits and watches TV all day.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Grocery shopping"
+  },
+  {
+    "Title": "A12-0138",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We accept dollars.",
     "Unit": 3,
     "Role": "Student A",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0015-P",
+    "Title": "A12-0139",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I am very happy and anxious.",
+    "Retention sentence": "We admit responsibility for the mistake.",
     "Unit": 3,
     "Role": "Student B",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0016-P",
+    "Title": "A12-0140",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "My new boss is nice and polite.",
+    "Retention sentence": "Please, approve the project!",
     "Unit": 3,
     "Role": "Student A",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0017-P",
+    "Title": "A12-0141",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I will hit it out of the park!",
+    "Retention sentence": "Try to avoid overusing the internet.",
     "Unit": 3,
     "Role": "Student B",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0018-P",
+    "Title": "A12-0142",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "We are working together to increase sales.",
+    "Retention sentence": "We need to buy office supplies",
     "Unit": 3,
     "Role": "Student A",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0019-P",
+    "Title": "A12-0143",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "We need to shape up or ship out.",
+    "Retention sentence": "They do business with different companies",
     "Unit": 3,
     "Role": "Student B",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0020-P",
+    "Title": "A12-0144",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "We are increasing production next week.",
+    "Retention sentence": "They charge $20 for late payments.",
     "Unit": 3,
     "Role": "Student A",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0021-P",
+    "Title": "A12-0145",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "I am working hard and doing my best.",
+    "Retention sentence": "Customers complain about the food all the time.",
     "Unit": 3,
     "Role": "Student B",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0022-P",
+    "Title": "A12-0146",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "This company is manufacturing office supplies.",
+    "Retention sentence": "Sales are decreasing really fast.",
     "Unit": 3,
     "Role": "Student A",
-    "Topic": "The office"
+    "Topic": "Doing business"
   },
   {
-    "Title": "A12-0023-P",
+    "Title": "A12-0147",
     "Level": "A1",
     "Sublevel": "A1.2",
-    "Retention sentence": "My effort isn't going down the drain.",
+    "Retention sentence": "We need to develop a new plan.",
     "Unit": 3,
     "Role": "Student B",
-    "Topic": "The office"
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0148",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I hope sales increase soon.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0149",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Please, inform the manager.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0150",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "People invest a lot of money on houses.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0151",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "They can manage the situation.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0152",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I sell houses and apartments.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0153",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "These are difficult times, so we have to bite the bullet .",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0154",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "They see the details but miss the big picture.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0155",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are accepting new students.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0156",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She is admitting her mistake.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0157",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The manager is approving the plan.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0158",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are avoiding problems at work.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0159",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "They are buying a new computer.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0160",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are doing business with a new company.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0161",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The hotel is charging $50 per night.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0162",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Customers are complaining about the service.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0163",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Sales are decreasing this month.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0164",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The company is developing a new app.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0165",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Sales are increasing every week.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0166",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The school is informing students about the event.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0167",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "They are investing in a new project.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0168",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She is managing a small team.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0169",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The store is selling new products.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0170",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We are jumping through hoops to help the customer.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0171",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She is biting the bullet and starting the difficult task.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A12-0172",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The manager is looking at the big picture.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Doing business"
+  },
+  {
+    "Title": "A21-0047",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "You completed the assignment, didn�t you?",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0048",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She was very busy yesterday, wasn�t she?",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0049",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "They enjoyed the concert, didn�t they?",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0050",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "It was an interesting class, wasn�t it?",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0051",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "He found the keys, didn�t he?",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0052",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We were ready for the meeting, weren�t we?",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0053",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She called you last night, didn�t she?",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "Tag questions"
+  },
+  {
+    "Title": "A21-0054",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I cleaned my room yesterday morning.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0055",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She called her friend last night.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0056",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "They finished the exam two hours ago.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0057",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We visited the museum last weekend.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0058",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "He bought a new phone last month.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0059",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She started her new job last year.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0060",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We watched a documentary yesterday evening.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0061",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I met my teacher three days ago.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0062",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "They traveled to the beach last summer.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0063",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "He arrived home late yesterday.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0064",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She studied for the test last night.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0065",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We played volleyball last Saturday.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0066",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I cooked dinner yesterday evening.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0067",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "They moved into a new house last spring.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0068",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "He completed the project a week ago.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0069",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She went shopping yesterday afternoon.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0070",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We attended a meeting last Monday.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0071",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I received an email two days ago.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0072",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "They painted their house last year.",
+    "Unit": 3,
+    "Role": "Student A",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0073",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "He visited his grandparents last weekend.",
+    "Unit": 3,
+    "Role": "Student B",
+    "Topic": "Simple past"
+  },
+  {
+    "Title": "A21-0074",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "have good communication skills, so I explained the project clearly.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0075",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She used her interpersonal skills to solve a conflict at work.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0076",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "He showed strong problem-solving skills when the computer stopped working.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0077",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Good decision making helped us finish the project on time.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0078",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Her assertiveness allowed her to express her opinion respectfully.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0079",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My self-confidence increased after I gave the presentation.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0080",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Teamwork helped the group complete the task successfully.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0081",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She is a great team player and always supports her coworkers.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0082",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Critical thinking helped him find a better solution.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0083",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Good time management allowed me to finish all my assignments.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0084",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The manager gave constructive feedback after the meeting.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0085",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "His strong work ethic impressed everyone in the company.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0086",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "No pain, no gain. I studied every night and passed the exam.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0087",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "No pain, no gain. She practiced a lot and improved her English.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0088",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "So far, so good. The project is going according to plan.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0089",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "So far, so good. I haven't had any problems at my new job.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0090",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "We had a problem and went back to square one.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0091",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The plan failed, so we were back to square one.",
+    "Unit": 4,
+    "Role": "Student B",
+    "Topic": "People skills"
+  },
+  {
+    "Title": "A21-0092",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "After losing all the data, the team was back to square one.",
+    "Unit": 4,
+    "Role": "Student A",
+    "Topic": "People skills"
   }
 ]
