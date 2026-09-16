@@ -126,7 +126,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0014",
+    "Title": "A12-0173",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am starting a new job today.",
@@ -144,7 +144,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0015",
+    "Title": "A12-0174",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am very happy and anxious.",
@@ -162,7 +162,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0016",
+    "Title": "A12-0175",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My new boss is nice and polite.",
@@ -180,7 +180,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0017",
+    "Title": "A12-0176",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I will hit it out of the park!",
@@ -198,7 +198,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0018",
+    "Title": "A12-0177",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are working together to increase sales.",
@@ -216,7 +216,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0019",
+    "Title": "A12-0178",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We need to shape up or ship out.",
@@ -234,7 +234,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0020",
+    "Title": "A12-0179",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "We are increasing production next week.",
@@ -252,7 +252,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0021",
+    "Title": "A12-0180",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "I am working hard and doing my best.",
@@ -270,7 +270,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0022",
+    "Title": "A12-0181",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "This company is manufacturing office supplies",
@@ -288,7 +288,7 @@
     "Topic": "The Office"
   },
   {
-    "Title": "A12-0023",
+    "Title": "A12-0182",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Retention sentence": "My effort isn’t going down the drain.",
@@ -2689,5 +2689,914 @@
     "Unit": 2,
     "Role": "Student B",
     "Topic": "Food and quantifiers"
+  },
+  {
+    "Title": "A12-0183",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I attend the marketing meeting every Monday.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0184",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I don't attend the marketing meeting every Monday.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0185",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you attend the marketing meeting every Monday?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0186",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "When do you attend the marketing meeting?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0187",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The manager prepares reports for the directors.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0188",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The manager doesn't prepare reports for the directors.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0189",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Does the manager prepare reports for the directors?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0190",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What does the manager prepare for the directors?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0191",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The secretary makes phone calls all day long.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0192",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The secretary doesn't make phone calls all day long.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0193",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Does the secretary make phone calls all day long?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0194",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Who makes phone calls all day long?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0195",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The IT manager finishes work very late at night.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0196",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The IT manager doesn't finish work very late at night.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0197",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Does the IT manager finish work very late at night?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0198",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What time does the IT manager finish work?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0199",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The sales representatives talk to customers all the time.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0200",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The sales representatives don't talk to customers all the time.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0201",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do the sales representatives talk to customers all the time?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0202",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Who do the sales representatives talk to?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0203",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I check my email every morning.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0204",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She starts work at eight o'clock.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0205",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We have lunch in the office.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0206",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "He answers the phone at the front desk.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0207",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "They clean their desks after work.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0208",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I send messages to my coworkers.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0209",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "The manager opens the office every day.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0210",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We use computers to prepare reports.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0211",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She helps customers in the afternoon.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0212",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "He takes a break at ten o'clock.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0213",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I don't work on Sundays.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0214",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "She doesn't drink coffee at work.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0215",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "We don't have meetings on Fridays.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0216",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "He doesn't use the printer every day.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0217",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "They don't leave the office at noon.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0218",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you check your calendar every day?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0219",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Does she work in the sales department?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0220",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do they eat lunch together?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0221",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Does he write emails to customers?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0222",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do we need paper for the printer?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0223",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Where do you keep your files?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0224",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What time does the office open?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0225",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "How does she get to work?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0226",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "When do they take a break?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A12-0227",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Who checks the reports every week?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Work routines"
+  },
+  {
+    "Title": "A21-0118",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am more confident now than in my first job interview.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0119",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My sister is more active than I am.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0120",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am as reliable as the other candidates.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0121",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am more productive in the morning than at night.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0122",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Your English is more advanced than mine.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0123",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Your advice is more constructive than his advice.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0124",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I feel more inspired in the park than at home.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0125",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am more determined to learn than before.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0126",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My brother is as passionate about music as I am.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0127",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am as capable as the other candidates.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0128",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am as accountable for my mistakes as any team member.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0129",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Sara is the most diligent student in our class.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0130",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am as committed to this job as you are.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0131",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My little cousin is the most energetic person in my family.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0132",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am more enthusiastic about this position than my last job.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0133",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She is the most visionary leader in our town.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0134",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This camera is more sophisticated than my old camera.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0135",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This map is more accurate than that one.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0136",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am more outgoing than my brother.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0137",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Who is the most reliable person in your family?",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0138",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Are you as confident in English as you are in Spanish?",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0139",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My grandmother is the most active person in our house.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0140",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am most productive when I work in a quiet place.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0141",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This is the most advanced phone in the store.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0142",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I feel most inspired when I listen to music.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0143",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "She is the most determined player on our team.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0144",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Our new neighbor is as outgoing as my dad.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0145",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I feel more energetic after breakfast than before it.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0146",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My son is more enthusiastic about swimming than running.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0147",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "I am as diligent with small tasks as I am with big tasks.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0148",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This train is faster than the bus.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0149",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Luis is the fastest runner in our class.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0150",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "These shoes are more expensive than those shoes.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0151",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "That is the most expensive restaurant in town.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0152",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Good health is more important than money.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0153",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This is the most important question in the interview.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0154",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My bike is as fast as yours.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0155",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This café is not as expensive as the restaurant.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0156",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Listening is as important as speaking.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0157",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The blue bag is cheaper than the red one.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0158",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This is the cheapest ticket for the concert.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0159",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My new chair is more comfortable than my old one.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0160",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This is the most comfortable bed in the house.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0161",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Today's homework is easier than yesterday's homework.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0162",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This is the easiest recipe in the book.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0163",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The library is quieter than the café.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0164",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Sunday is the quietest day in our neighborhood.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0165",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Your suitcase is as heavy as mine.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0166",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The beach is more beautiful at sunset than at noon.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0167",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "This is the best photo from our trip.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Comparatives and superlatives"
+  },
+  {
+    "Title": "A21-0168",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "The salesman is a fast talker, so I check the price carefully.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Idioms"
+  },
+  {
+    "Title": "A21-0169",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Be careful with that fast talker; his promises are not always true.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Idioms"
+  },
+  {
+    "Title": "A21-0170",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "After we wash the car, it is as clean as a whistle.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Idioms"
+  },
+  {
+    "Title": "A21-0171",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "My kitchen is as clean as a whistle after I clean it.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Idioms"
+  },
+  {
+    "Title": "A21-0172",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Tom is big-headed; he thinks he is better than everyone else.",
+    "Unit": 5,
+    "Role": "Student A",
+    "Topic": "Idioms"
+  },
+  {
+    "Title": "A21-0173",
+    "Level": "A2",
+    "Sublevel": "A2.1",
+    "Retention sentence": "Don't be big-headed just because you win the game.",
+    "Unit": 5,
+    "Role": "Student B",
+    "Topic": "Idioms"
   }
 ]
