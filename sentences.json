@@ -3096,6 +3096,429 @@
     "Topic": "Work routines"
   },
   {
+    "Title": "A12-0228",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What is your daily routine?",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0229",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What's your daily routine?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0230",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I always get up at seven o'clock.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0231",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I usually have fruit and yogurt for breakfast.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0232",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I often go jogging.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0233",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I sometimes go swimming after work.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0234",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I occasionally watch a film.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0235",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you go clothes shopping?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0236",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I hardly ever go clothes shopping.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0237",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "How about skateboarding? Do you go skateboarding?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0238",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I never go skateboarding.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0239",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I usually get up at quarter past six.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0240",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I often have porridge for breakfast.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0241",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I sometimes listen to a podcast.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0242",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I always cook dinner after work.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0243",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I occasionally play video games.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0244",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you go swimming in the sea?",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0245",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I hardly ever go swimming in the sea.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0246",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you drink tea?",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0247",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I never drink tea.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0248",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I usually get up at quarter to eight.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0249",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I often eat cereal for breakfast.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0250",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I always read the news on the train.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0251",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I sometimes exercise after work.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0252",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I occasionally watch TV.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0253",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you sometimes go to the gym?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0254",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I hardly ever go to the gym.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0255",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you sometimes play video games?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0256",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I never play video games.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0257",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I sometimes get up at half past seven.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0258",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "But sometimes, I get up at half past eight.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0259",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I occasionally eat toast for breakfast.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0260",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I always brush my teeth.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0261",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I usually walk to work.",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0262",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I often read a book.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0263",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you sometimes go camping?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0264",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I hardly ever go camping.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0265",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Do you sometimes watch cartoons?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0266",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "I never watch cartoons.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0267",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What does María occasionally do?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0268",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "María occasionally watches a film.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0269",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What does Carlos sometimes do?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0270",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Carlos sometimes listens to a podcast.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0271",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What does Ana always do?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0272",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "Ana always reads the news on the train.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0273",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "What does José often do?",
+    "Unit": 6,
+    "Role": "Student B",
+    "Topic": "Daily routines and frequency"
+  },
+  {
+    "Title": "A12-0274",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Retention sentence": "José often reads a book.",
+    "Unit": 6,
+    "Role": "Student A",
+    "Topic": "Daily routines and frequency"
+  },
+  {
     "Title": "A21-0118",
     "Level": "A2",
     "Sublevel": "A2.1",
