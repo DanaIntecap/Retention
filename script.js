@@ -9,6 +9,7 @@ const filterSubnivel = document.getElementById('filterSubnivel');
 const filterUnidad = document.getElementById('filterUnidad');
 const filterRol = document.getElementById('filterRol');
 const sentenceSelect = document.getElementById('sentenceSelect');
+const btnNext = document.getElementById('btnNext');
 const feedbackBox = document.getElementById('feedbackBox');
 
 // Forzar carga de voces
@@ -87,19 +88,36 @@ function applyFilters() {
         return matchNivel && matchSubnivel && matchUnidad && matchRol;
     });
 
+    filteredData.sort((a, b) => a.Title.localeCompare(b.Title, 'en', { numeric: true }));
     sentenceSelect.innerHTML = '<option value="">Selecciona un audio...</option>';
     filteredData.forEach(item => {
         sentenceSelect.innerHTML += `<option value="${item.Title}">${item.Title}</option>`;
     });
 
     currentSentence = null;
+    updateNextButton();
     resetFeedback();
 }
 
 function selectSentence() {
+    stopAudio();
     currentSentence = filteredData.find(item => item.Title === sentenceSelect.value);
+    updateNextButton();
     resetFeedback();
 }
+
+function updateNextButton() {
+    const index = filteredData.findIndex(item => item.Title === sentenceSelect.value);
+    btnNext.disabled = filteredData.length === 0 || index === filteredData.length - 1;
+}
+
+btnNext.addEventListener('click', () => {
+    const index = filteredData.findIndex(item => item.Title === sentenceSelect.value);
+    const next = filteredData[index + 1];
+    if (!next) return;
+    sentenceSelect.value = next.Title;
+    selectSentence();
+});
 
 function resetFeedback() {
     feedbackBox.innerHTML = "🎧 Selecciona un audio y escúchalo primero...";

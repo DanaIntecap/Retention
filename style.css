@@ -144,6 +144,8 @@ select {
 }
 
 .audio-selector select {
+    flex: 1;
+    min-width: 0;
     border: none;
     background: transparent;
     font-weight: 600;
@@ -182,6 +184,12 @@ select {
 
 .btn-blue { background: #3498db; color: white; }
 .btn-blue-dark { background: #2980b9; color: white; }
+.audio-selector .btn-next {
+    width: auto;
+    flex-shrink: 0;
+    margin: 0 0 0 8px;
+    white-space: nowrap;
+}
 .btn-green { background: #16a085; color: white; }
 .btn-orange { background: #e67e22; color: white; }
 
