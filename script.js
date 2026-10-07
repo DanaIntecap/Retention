@@ -108,23 +108,58 @@ function resetFeedback() {
 }
 
 // 3. Audio (TTS)
+let playbackTimer = null;
+let activeUtterance = null;
+
+function stopAudio() {
+    clearTimeout(playbackTimer);
+    playbackTimer = null;
+    window.speechSynthesis.cancel();
+    activeUtterance = null;
+}
+
+function selectEnglishVoice(voices) {
+    const english = voices.filter(v => /^en(?:[-_]|$)/i.test(v.lang));
+    // Preferir voces locales y usar la misma selección para ambas velocidades.
+    const american = v => /^en[-_]US$/i.test(v.lang);
+    return english.find(v => v.localService && american(v))
+        || english.find(v => v.localService)
+        || english.find(american)
+        || english[0];
+}
+
 function playAudio(speed) {
     if (!currentSentence) return alert("Selecciona un audio primero.");
     if (!currentSentence["Retention sentence"]) return alert("Error: La columna 'Retention sentence' está vacía en este registro.");
 
-    window.speechSynthesis.cancel();
+    stopAudio();
 
     const msg = new SpeechSynthesisUtterance(currentSentence["Retention sentence"]);
 
     const voices = window.speechSynthesis.getVoices();
-    let engVoice = voices.find(v => v.lang.startsWith("en-US")) || voices.find(v => v.lang.startsWith("en"));
+    const engVoice = selectEnglishVoice(voices);
     if (engVoice) msg.voice = engVoice;
 
-    msg.lang = "en-US";
+    msg.lang = engVoice ? engVoice.lang : "en-US";
     msg.rate = speed;
 
-    window.speechSynthesis.speak(msg);
+    // Dar tiempo al motor para cancelar la lectura anterior antes de iniciar
+    // una nueva con otra velocidad. Un clic posterior reemplaza este inicio.
+    playbackTimer = setTimeout(() => {
+        playbackTimer = null;
+        activeUtterance = msg;
+        const release = () => {
+            if (activeUtterance === msg) activeUtterance = null;
+        };
+        msg.onend = release;
+        msg.onerror = release;
+        window.speechSynthesis.resume();
+        window.speechSynthesis.speak(msg);
+    }, 150);
 }
+
+[filterNivel, filterSubnivel, filterUnidad, filterRol, sentenceSelect]
+    .filter(Boolean).forEach(element => element.addEventListener('change', stopAudio));
 
 document.getElementById('btnPlayNormal').addEventListener('click', () => playAudio(1));
 document.getElementById('btnPlaySlow').addEventListener('click', () => playAudio(0.85));
@@ -132,6 +167,7 @@ document.getElementById('btnPlaySlow').addEventListener('click', () => playAudio
 // 4. Reconocimiento de Voz
 document.getElementById('btnSpeak').addEventListener('click', () => {
     if (!currentSentence) return alert("Selecciona un audio primero.");
+    stopAudio();
 
     const SpeechAPI = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechAPI) return alert("Tu navegador no soporta el reconocimiento de voz. Usa Google Chrome o Edge.");
